@@ -1,3 +1,3 @@
 # Ini adalah repository untuk latihan membuat branch baru di GitHub.
--- 
-GitHub Asyik Main
+
+GitHub itu asyik lo.
